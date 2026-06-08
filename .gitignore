@@ -24,3 +24,8 @@ __pycache__/
 .idea/
 *.swp
 *.swo
+
+# Local scratch files
+input.txt
+new_problem.py
+new_problem.ps1
