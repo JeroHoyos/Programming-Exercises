@@ -1,0 +1,26 @@
+# C++ build artifacts
+*.o
+*.out
+*.exe
+a.out
+
+# Rust
+target/
+Cargo.lock
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# CUDA
+*.ptx
+*.cubin
+*.fatbin
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
