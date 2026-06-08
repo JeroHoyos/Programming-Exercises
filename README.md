@@ -1,4 +1,4 @@
-# forge
+# Programming Exercises
 
 Personal competitive programming workspace. Problems from Codeforces, LeetCode, and LeetGPU.
 
@@ -48,4 +48,4 @@ Compiles automatically for C++, Rust, and CUDA. Python runs directly.
 | Codeforces | ✓   | ✓    | ✓      |      |
 | LeetCode   | ✓   | ✓    | ✓      |      |
 | LeetGPU    |     |      |        | ✓    |
-"# Programming-Exercises" 
+
