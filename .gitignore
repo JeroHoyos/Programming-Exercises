@@ -32,3 +32,8 @@ __pycache__/
 input.txt
 new_problem.py
 new_problem.ps1
+
+
+# Added by cargo
+
+/target
